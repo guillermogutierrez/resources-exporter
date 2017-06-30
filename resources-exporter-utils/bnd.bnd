@@ -1,0 +1,4 @@
+Bundle-Name: com.liferay.demo.resources.exporter.utils
+Bundle-SymbolicName: resources.exporter.utils
+Bundle-Version: 0.0.1-SNAPSHOT
+Export-Package: com.liferay.demo.resources.exporter.file.service.impl

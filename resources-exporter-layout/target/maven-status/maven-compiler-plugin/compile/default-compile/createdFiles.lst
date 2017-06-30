@@ -1,0 +1,16 @@
+com/liferay/demo/resources/exporter/service/impl/PortletPreferencesExporterLocalServiceImpl.class
+com/liferay/demo/resources/exporter/test/service/impl/ColumnExporterLocalServiceImpl.class
+com/liferay/demo/resources/exporter/test/service/impl/ResourceExporterLocalServiceImpl.class
+com/liferay/demo/resources/exporter/service/ResourceFormatter.class
+com/liferay/demo/resources/exporter/service/impl/ColumnExporterLocalServiceImpl.class
+com/liferay/demo/resources/exporter/test/service/base/ResourceExporterLocalServiceBaseImpl.class
+com/liferay/demo/resources/exporter/test/service/util/ServiceProps.class
+com/liferay/demo/resources/exporter/test/service/base/ColumnExporterLocalServiceBaseImpl.class
+com/liferay/demo/resources/exporter/test/service/impl/LayoutExporterLocalServiceImpl.class
+com/liferay/demo/resources/exporter/service/impl/LayoutExporterLocalServiceImpl.class
+com/liferay/demo/resources/exporter/test/service/impl/PortletPreferencesExporterLocalServiceImpl.class
+com/liferay/demo/resources/exporter/test/service/base/LayoutExporterLocalServiceBaseImpl.class
+com/liferay/demo/resources/exporter/test/service/base/PortletPreferencesExporterLocalServiceBaseImpl.class
+com/liferay/demo/resources/exporter/test/service/base/SiteExporterLocalServiceBaseImpl.class
+resources/exporter/service/util/ServiceProps.class
+com/liferay/demo/resources/exporter/test/service/impl/SiteExporterLocalServiceImpl.class

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<scr:component xmlns:scr="http://www.osgi.org/xmlns/scr/v1.1.0" name="com.liferay.demo.resources.exporter.test.service.impl.SiteExporterLocalServiceImpl" immediate="true">
+  <implementation class="com.liferay.demo.resources.exporter.test.service.impl.SiteExporterLocalServiceImpl"/>
+  <service>
+    <provide interface="com.liferay.demo.resources.exporter.service.ResourceExporterService"/>
+  </service>
+  <reference name="FileExportService" interface="com.liferay.demo.resources.exporter.file.service.impl.FileExportService" bind="setFileExportService"/>
+  <reference name="LayoutExporterLocalService" interface="com.liferay.demo.resources.exporter.test.service.LayoutExporterLocalService" bind="setLayoutExporterLocalService"/>
+</scr:component>

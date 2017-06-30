@@ -1,0 +1,194 @@
+{
+	"publicPages": [
+		{
+			"colorSchemeId": "",
+			"layoutTemplateId": "1_column",
+			"nameMap": {
+				"en_US": "Welcome"
+			},
+			"hidden": "false",
+			"columns": [
+				[
+					{
+						"portletId": "com_liferay_resources_exporter_web_INSTANCE_BgC04VqVzd53"
+					},
+					{
+						"portletId": "com_liferay_asset_publisher_web_portlet_AssetPublisherPortlet_INSTANCE_bQr4khHwmMWV",
+						"portletPreferences": {
+							"enableComments": "false",
+							"enableRelatedAssets": "true",
+							"subtypeFieldsFilterEnabled": "false",
+							"enableViewCountIncrement": "true",
+							"delta": "20",
+							"showAvailableLocales": "false",
+							"displayStyleGroupId": "20147",
+							"assetLinkBehavior": "showFullContent",
+							"selectionStyle": "dynamic",
+							"displayStyle": "ddmTemplate_56905",
+							"enablePermissions": "true",
+							"enableRss": "false",
+							"rssFeedType": "atom_1.0",
+							"classTypeIdsJournalArticleAssetRendererFactory": "29408,42002,42006",
+							"rssDisplayStyle": "abstract",
+							"anyAssetType": "20015",
+							"queryName0": "assetTags",
+							"subtypeFieldsFilterEnabledJournalArticleAssetRendererFactory": "false",
+							"enableRatings": "false",
+							"orderByColumn2": "title",
+							"orderByColumn1": "modifiedDate",
+							"queryValues0": "",
+							"extensions": "",
+							"emailFromName": "Test Test",
+							"abstractLength": "200",
+							"showMetadataDescriptions": "true",
+							"enableFlags": "false",
+							"showAddContentButton": "true",
+							"subtypeFieldsFilterEnabledDLFileEntryAssetRendererFactory": "false",
+							"ddmStructureFieldName": "",
+							"rssName": "Asset Publisher",
+							"showExtraInfo": "true",
+							"showOnlyLayoutAssets": "false",
+							"enableSocialBookmarks": "true",
+							"mergeUrlTags": "true",
+							"queryContains0": "true",
+							"classNameIds": "20015",
+							"socialBookmarksDisplayStyle": "menu",
+							"classTypeIdsDLFileEntryAssetRendererFactory": "0,29118,29123,29129,29135",
+							"queryAndOperator0": "false",
+							"emailAssetEntryAddedEnabled": "false",
+							"rssDelta": "20",
+							"metadataFields": "",
+							"customUserAttributes": "",
+							"anyClassTypeJournalArticleAssetRendererFactory": "true",
+							"showContextLink": "true",
+							"enableCommentRatings": "false",
+							"emailFromAddress": "test@liferay.com",
+							"anyClassTypeDLFileEntryAssetRendererFactory": "true",
+							"enablePrint": "false",
+							"socialBookmarksDisplayPosition": "bottom",
+							"orderByType1": "DESC",
+							"showAssetTitle": "true",
+							"orderByType2": "ASC",
+							"paginationType": "none",
+							"assetVocabularyId": "",
+							"ddmStructureFieldValue": "",
+							"ddmStructureDisplayFieldValue": ""
+						}
+					},
+					{
+						"portletId": "com_liferay_social_activities_web_portlet_SocialActivitiesPortlet"
+					},
+					{
+						"portletId": "com_liferay_journal_content_web_portlet_JournalContentPortlet_INSTANCE_u5d8ijwo4Z9S",
+						"portletPreferences": {
+							"groupId": "20147",
+							"articleId": "33038"
+						}
+					},
+					{
+						"portletId": "com_liferay_wiki_web_portlet_WikiPortlet"
+					},
+					{
+						"portletId": "com_liferay_announcements_web_portlet_AlertsPortlet",
+						"portletPreferences": {
+							"portletSetupPortletDecoratorId": "borderless"
+						}
+					},
+					{
+						"portletId": "com_liferay_announcements_web_portlet_AnnouncementsPortlet"
+					},
+					{
+						"portletId": "com_liferay_social_user_statistics_web_portlet_SocialUserStatisticsPortlet",
+						"portletPreferences": {
+							"showTotals": "true",
+							"rankByContribution": "true",
+							"displayActivityCounterNameIndexes": "0",
+							"displayAdditionalActivityCounters": "true",
+							"showHeaderText": "true",
+							"displayActivityCounterName0": "user.achievements",
+							"rankByParticipation": "true"
+						}
+					},
+					{
+						"portletId": "com_liferay_microblogs_web_portlet_MicroblogsPortlet"
+					},
+					{
+						"portletId": "com_liferay_site_navigation_menu_web_portlet_SiteNavigationMenuPortlet_INSTANCE_QYNDO8DASrKM",
+						"portletPreferences": {
+							"displayStyle": "ddmTemplate_SPLIT-BUTTON-DROPDOWNS-FTL",
+							"displayDepth": "4",
+							"rootLayoutLevel": "0",
+							"rootLayoutType": "absolute",
+							"displayStyleGroupId": "20160",
+							"includedLayouts": "all",
+							"rootLayoutUuid": ""
+						}
+					},
+					{
+						"portletId": "com_liferay_hello_world_web_portlet_HelloWorldPortlet",
+						"portletPreferences": {
+							
+						}
+					}
+				]
+			],
+			"typeSettings": "column-1=com_liferay_resources_exporter_web_INSTANCE_BgC04VqVzd53,com_liferay_asset_publisher_web_portlet_AssetPublisherPortlet_INSTANCE_bQr4khHwmMWV,com_liferay_social_activities_web_portlet_SocialActivitiesPortlet,com_liferay_journal_content_web_portlet_JournalContentPortlet_INSTANCE_u5d8ijwo4Z9S,com_liferay_wiki_web_portlet_WikiPortlet,com_liferay_announcements_web_portlet_AlertsPortlet,com_liferay_announcements_web_portlet_AnnouncementsPortlet,com_liferay_social_user_statistics_web_portlet_SocialUserStatisticsPortlet,com_liferay_microblogs_web_portlet_MicroblogsPortlet,com_liferay_site_navigation_menu_web_portlet_SiteNavigationMenuPortlet_INSTANCE_QYNDO8DASrKM,com_liferay_hello_world_web_portlet_HelloWorldPortlet\nlayout-template-id=1_column\n",
+			"themeId": "",
+			"layoutCSS": "",
+			"friendlyURL": "/home",
+			"title": "",
+			"type": "portlet"
+		},
+		{
+			"colorSchemeId": "",
+			"layoutTemplateId": "1_column",
+			"nameMap": {
+				"en_US": "Page 2"
+			},
+			"hidden": "false",
+			"columns": [
+				[
+					{
+						"portletId": "com_liferay_chart_portlet_SunburstPortlet_INSTANCE_WKAbRMxRFHbf",
+						"portletPreferences": {
+							"breadcrumbEnabled": "true",
+							"filter": "0.005",
+							"graphName": "Demo 2",
+							"leyendEnabled": "true",
+							"autoColors": "true",
+							"showText": "true",
+							"width": "700",
+							"serviceURL": "http://localhost:8580/documents/20147/0/sample.json/e95439e8-815b-8479-1563-710d6d1303f3?download=true",
+							"explanation": "Demo",
+							"colors": "{\"Santander UK\":\"red\"}",
+							"height": "650"
+						}
+					}
+				]
+			],
+			"typeSettings": "CUSTOMIZABLE_LAYOUT=false\ncolumn-1=com_liferay_chart_portlet_SunburstPortlet_INSTANCE_WKAbRMxRFHbf,\ncolumn-1-customizable=false\ncolumn-2-customizable=false\nlayout-template-id=1_column\nlayoutUpdateable=true\nsitemap-changefreq=daily\nsitemap-include=1\n",
+			"themeId": "classic_WAR_classictheme",
+			"layoutCSS": "",
+			"friendlyURL": "/page-2",
+			"title": "",
+			"type": "portlet"
+		}
+	],
+	"privatePages": [
+		{
+			"colorSchemeId": "",
+			"layoutTemplateId": "1_2_1_columns",
+			"nameMap": {
+				"en_US": "Page p1"
+			},
+			"hidden": false,
+			"columns": [],
+			"typeSettings": "layout-template-id=1_2_1_columns\nprivateLayout=true\n",
+			"themeId": "",
+			"layoutCSS": "",
+			"friendlyURL": "/page-p1",
+			"title": "",
+			"type": "portlet"
+		}
+	]
+}

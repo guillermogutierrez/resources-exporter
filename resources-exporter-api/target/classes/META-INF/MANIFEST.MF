@@ -1,0 +1,27 @@
+Manifest-Version: 1.0
+Bundle-SymbolicName: com.liferay.demo.resources.exporter.api
+Built-By: guillermo
+Bnd-LastModified: 1498830312934
+Bundle-ManifestVersion: 2
+Import-Package: com.liferay.demo.resources.exporter.model,com.liferay.
+ osgi.util;version="[2.0,3)",com.liferay.portal.kernel.exception;versi
+ on="[7.0,8)",com.liferay.portal.kernel.json;version="[7.0,8)",com.lif
+ eray.portal.kernel.log;version="[7.0,8)",com.liferay.portal.kernel.mo
+ del;version="[1.0,2)",com.liferay.portal.kernel.service;version="[1.0
+ ,2)",com.liferay.portal.kernel.transaction;version="[7.0,8)",org.osgi
+ .util.tracker;version="[1.5,2)"
+Require-Capability: osgi.ee;filter:="(&(osgi.ee=JavaSE)(version=1.8))"
+Tool: Bnd-3.2.0.201605172007
+Export-Package: com.liferay.demo.resources.exporter.model;version="0.0
+ .1",com.liferay.demo.resources.exporter.test.service;uses:="com.lifer
+ ay.demo.resources.exporter.model,com.liferay.portal.kernel.exception,
+ com.liferay.portal.kernel.json,com.liferay.portal.kernel.model,com.li
+ feray.portal.kernel.service,com.liferay.portal.kernel.transaction";ve
+ rsion="0.0.1",com.liferay.demo.resources.exporter.generic.service;ver
+ sion="0.0.1"
+Bundle-Name: com.liferay.demo.resources.exporter.api
+Bundle-Version: 0.0.1.201706301345
+Private-Package: com.liferay.demo.resources.exporter.service
+Build-Jdk: 1.8.0_121
+Created-By: 1.8.0_121 (Oracle Corporation)
+

@@ -1,0 +1,7 @@
+com.liferay.counter.kernel.service.CounterLocalService
+com.liferay.portal.kernel.model.Release (&(release.bundle.symbolic.name=com.liferay.demo.resources.exporter.service)(release.schema.version=1.0.0))
+com.liferay.portal.kernel.service.ClassNameLocalService
+com.liferay.portal.kernel.service.ResourceLocalService
+com.liferay.portal.kernel.service.UserLocalService
+com.liferay.portal.kernel.service.persistence.ClassNamePersistence
+com.liferay.portal.kernel.service.persistence.UserPersistence

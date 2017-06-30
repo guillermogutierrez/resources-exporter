@@ -1,0 +1,8 @@
+Bundle-Name: com.liferay.demo.resources.exporter.api
+Bundle-SymbolicName: com.liferay.demo.resources.exporter.api
+Bundle-Version: 1.0.0-SNAPSHOT
+Export-Package: \
+	com.liferay.demo.resources.exporter.generic.service,\
+	com.liferay.demo.resources.exporter.model,\
+	com.liferay.demo.resources.exporter.test.service
+-includeresource: META-INF/service.xml=../resources-exporter-layout/service.xml
