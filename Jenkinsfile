@@ -20,7 +20,7 @@ pipeline {
             }
             post {
                 success {
-                    junit 'target/surefire-reports/**/*.xml' 
+                    sh 'cp target/*.jar /Users/guillermo/Liferay/bundles/DXP/SP3/platform-demo/deploy'  
                 }
             }
         }
